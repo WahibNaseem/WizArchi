@@ -1,0 +1,6 @@
+E:\CodeCamp\Wiz\Wiz.Service\bin\Debug\Wiz.Service.dll
+E:\CodeCamp\Wiz\Wiz.Service\bin\Debug\Wiz.Service.pdb
+E:\CodeCamp\Wiz\Wiz.Service\obj\Debug\Wiz.Service.csprojAssemblyReference.cache
+E:\CodeCamp\Wiz\Wiz.Service\obj\Debug\Wiz.Service.csproj.CoreCompileInputs.cache
+E:\CodeCamp\Wiz\Wiz.Service\obj\Debug\Wiz.Service.dll
+E:\CodeCamp\Wiz\Wiz.Service\obj\Debug\Wiz.Service.pdb
