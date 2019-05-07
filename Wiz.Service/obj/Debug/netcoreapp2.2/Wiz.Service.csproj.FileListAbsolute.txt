@@ -1,0 +1,8 @@
+E:\CodeCamp\Wiz\Wiz.Service\bin\Debug\netcoreapp2.2\Wiz.Service.deps.json
+E:\CodeCamp\Wiz\Wiz.Service\bin\Debug\netcoreapp2.2\Wiz.Service.dll
+E:\CodeCamp\Wiz\Wiz.Service\bin\Debug\netcoreapp2.2\Wiz.Service.pdb
+E:\CodeCamp\Wiz\Wiz.Service\obj\Debug\netcoreapp2.2\Wiz.Service.csproj.CoreCompileInputs.cache
+E:\CodeCamp\Wiz\Wiz.Service\obj\Debug\netcoreapp2.2\Wiz.Service.AssemblyInfoInputs.cache
+E:\CodeCamp\Wiz\Wiz.Service\obj\Debug\netcoreapp2.2\Wiz.Service.AssemblyInfo.cs
+E:\CodeCamp\Wiz\Wiz.Service\obj\Debug\netcoreapp2.2\Wiz.Service.dll
+E:\CodeCamp\Wiz\Wiz.Service\obj\Debug\netcoreapp2.2\Wiz.Service.pdb

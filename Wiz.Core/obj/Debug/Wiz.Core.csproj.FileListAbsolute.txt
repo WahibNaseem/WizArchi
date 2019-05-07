@@ -1,6 +1,0 @@
-E:\CodeCamp\Wiz\Wiz.Core\bin\Debug\Wiz.Core.dll
-E:\CodeCamp\Wiz\Wiz.Core\bin\Debug\Wiz.Core.pdb
-E:\CodeCamp\Wiz\Wiz.Core\obj\Debug\Wiz.Core.csprojAssemblyReference.cache
-E:\CodeCamp\Wiz\Wiz.Core\obj\Debug\Wiz.Core.csproj.CoreCompileInputs.cache
-E:\CodeCamp\Wiz\Wiz.Core\obj\Debug\Wiz.Core.dll
-E:\CodeCamp\Wiz\Wiz.Core\obj\Debug\Wiz.Core.pdb

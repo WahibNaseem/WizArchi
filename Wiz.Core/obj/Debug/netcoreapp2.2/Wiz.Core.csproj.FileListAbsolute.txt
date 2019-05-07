@@ -1,0 +1,8 @@
+E:\CodeCamp\Wiz\Wiz.Core\bin\Debug\netcoreapp2.2\Wiz.Core.deps.json
+E:\CodeCamp\Wiz\Wiz.Core\bin\Debug\netcoreapp2.2\Wiz.Core.dll
+E:\CodeCamp\Wiz\Wiz.Core\bin\Debug\netcoreapp2.2\Wiz.Core.pdb
+E:\CodeCamp\Wiz\Wiz.Core\obj\Debug\netcoreapp2.2\Wiz.Core.csproj.CoreCompileInputs.cache
+E:\CodeCamp\Wiz\Wiz.Core\obj\Debug\netcoreapp2.2\Wiz.Core.AssemblyInfoInputs.cache
+E:\CodeCamp\Wiz\Wiz.Core\obj\Debug\netcoreapp2.2\Wiz.Core.AssemblyInfo.cs
+E:\CodeCamp\Wiz\Wiz.Core\obj\Debug\netcoreapp2.2\Wiz.Core.dll
+E:\CodeCamp\Wiz\Wiz.Core\obj\Debug\netcoreapp2.2\Wiz.Core.pdb
